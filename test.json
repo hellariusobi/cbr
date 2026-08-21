@@ -1,0 +1,15 @@
+{
+  "title": "Test",
+  "description": "Cubari test",
+  "cover": "https://cdn.imgchest.com/files/c1f165511204.jpg",
+  "chapters": {
+    "1": {
+      "title": "Test Chapter",
+      "groups": {
+        "Test": [
+          "https://cdn.imgchest.com/files/c1f165511204.jpg"
+        ]
+      }
+    }
+  }
+}
